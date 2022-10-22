@@ -1,0 +1,32 @@
+{
+  "id": "56adc67e-af24-45e2-b565-cef4e00c8b4d",
+  "name": "NAVSPC-AVD",
+  "publisher": "NAVSpecialist ApS",
+  "version": "1.0.0.0",
+  "brief": "NAVSPC AVD",
+  "description": "System features for AV Distribution",
+  "privacyStatement": "",
+  "EULA": "https://NAVspecialist.dk",
+  "help": "https://NAVspecialist.dk",
+  "url": "https://NAVspecialist.dk",
+  "logo": "ExtensionLogo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "9.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
