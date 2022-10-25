@@ -1,8 +1,7 @@
 /// <summary>
-/// Page WEBservice - Item Inventory ItemCardExt (ID 50102) 
+/// Page WEBservice - Item Inventory (ID 50102).
 /// </summary>
 /// 
-
 page 50102 "WEBservice - Item Inventory"
 {
     ApplicationArea = All;
