@@ -20,7 +20,10 @@ pageextension 50100 ItemCardExt extends "Item Card"
             {
                 ApplicationArea = all;
             }
-            field("Placering"; rec.Placering)
+        }
+        addafter("Vendor Item No.")
+        {
+            field("Producentnavn"; rec.Producentnavn)
             {
                 ApplicationArea = all;
             }

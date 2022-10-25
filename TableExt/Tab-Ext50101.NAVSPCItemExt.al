@@ -18,9 +18,9 @@ tableextension 50101 "NAVSPC_ItemExt" extends Item
         {
             caption = 'Hylde';
         }
-        field(50103; "Placering"; Code[30])
+        field(50103; "Producentnavn"; Text[60])
         {
-            caption = 'Placering';
+            caption = 'Producentnavn';
         }
         field(50105; "WEEEpligt"; Boolean)
         {
