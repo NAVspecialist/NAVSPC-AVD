@@ -30,6 +30,10 @@ tableextension 50101 "NAVSPC_ItemExt" extends Item
         {
             caption = 'WEEEgruppe';
         }
+        field(50110; "På Webshop"; Boolean)
+        {
+            caption = 'På Webshop';
+        }
         field(50111; "Webshopkategori1"; Code[250])
         {
             caption = 'Webshopkategori1';

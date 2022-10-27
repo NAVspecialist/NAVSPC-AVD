@@ -57,6 +57,10 @@ pageextension 50100 ItemCardExt extends "Item Card"
             {
                 ApplicationArea = all;
             }
+            field("På Webshop"; Rec."På Webshop")
+            {
+                ApplicationArea = all;
+            }
         }
     }
 }
