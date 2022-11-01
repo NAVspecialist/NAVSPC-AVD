@@ -1,3 +1,7 @@
+/// <summary>
+/// TableExtension SalesInvHeaderExt (ID 50104) extends Record Sales Invoice Header.
+/// </summary>
+/// 
 tableextension 50104 "SalesInvHeaderExt" extends "Sales Invoice Header"
 {
     fields

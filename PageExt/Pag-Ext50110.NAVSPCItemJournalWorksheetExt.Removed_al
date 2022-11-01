@@ -1,0 +1,39 @@
+/// <summary>
+/// PageExtension NAVSPC_ItemJournalWorksheetExt (ID 50110) extends Record Item Journal.
+/// </summary>
+/// 
+pageextension 50110 NAVSPC_ItemJournalWorksheetExt extends "Item Journal"
+{
+    actions
+    {
+        addafter("Post and &Print")
+        {
+            Action("Opret LotNumre")
+            {
+                Image = Document;
+                ApplicationArea = Basic, Suite;
+                Caption = 'Opret LotNumre';
+
+                Trigger OnAction()
+                var
+                    CreateLotNo: Codeunit NAVSPC_Create_LOTNO;
+                begin
+                    CreateLotNo.Run(Rec);
+                end;
+            }
+            Action("Opret SerieNumre")
+            {
+                Image = Document;
+                ApplicationArea = Basic, Suite;
+                Caption = 'Opret SerieNumre';
+
+                Trigger OnAction()
+                var
+                    CreateSNNo: Codeunit NAVSPC_Create_SNNO;
+                begin
+                    CreateSNNo.Run(Rec);
+                end;
+            }
+        }
+    }
+}
