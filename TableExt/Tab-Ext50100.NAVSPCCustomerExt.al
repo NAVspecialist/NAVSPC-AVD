@@ -6,9 +6,9 @@ tableextension 50100 "NAVSPC_CustomerExt" extends Customer
 {
     fields
     {
-        field(50100; "Email Bogholderi"; Text[80])
+        field(50100; "E-mail hovedkontakt"; Text[80])
         {
-            Caption = 'Email Bogholderi';
+            Caption = 'Email hovedkontakt';
         }
         field(50101; "CopydanFritaget"; Boolean)
         {

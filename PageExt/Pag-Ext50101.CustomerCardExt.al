@@ -6,9 +6,13 @@ pageextension 50101 CustomerCardExt extends "Customer Card"
 {
     layout
     {
+        modify("E-Mail")
+        {
+            Caption = 'Faktura e-mail';
+        }
         addafter("E-Mail")
         {
-            field("Email Bogholderi"; Rec."Email Bogholderi")
+            field("E-mail hovedkontakt"; rec."E-mail hovedkontakt")
             {
                 ApplicationArea = all;
             }

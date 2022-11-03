@@ -1,8 +1,8 @@
 {
   "id": "56adc67e-af24-45e2-b565-cef4e00c8b4d",
-  "name": "NAVSPC-AVD - 1.0.0.5",
+  "name": "NAVSPC-AVD - 1.0.0.6",
   "publisher": "NAVSpecialist ApS",
-  "version": "1.0.0.5",  
+  "version": "1.0.0.6",  
   "brief": "NAVSPC AVD",
   "description": "System features for AV Distribution",
   "privacyStatement": "",
