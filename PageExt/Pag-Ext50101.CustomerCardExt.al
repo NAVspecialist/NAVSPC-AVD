@@ -12,7 +12,7 @@ pageextension 50101 CustomerCardExt extends "Customer Card"
         }
         addafter("E-Mail")
         {
-            field("E-mail hovedkontakt"; rec."E-mail hovedkontakt")
+            field("E-mail hovedkontakt"; rec."Email Bogholderi")
             {
                 ApplicationArea = all;
             }
