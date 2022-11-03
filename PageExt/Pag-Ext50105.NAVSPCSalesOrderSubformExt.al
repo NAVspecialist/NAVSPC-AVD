@@ -5,6 +5,23 @@
 /// 
 pageextension 50105 "NAVSPC_SalesOrderSubformExt" extends "Sales Order Subform"
 {
+    layout
+    {
+        addafter("Shipment Date")
+        {
+            field("Leverandør varenr."; Item."Vendor Item No.")
+            {
+                ApplicationArea = all;
+                Editable = false;
+            }
+            field("GTIN Nr."; item.GTIN)
+            {
+                ApplicationArea = all;
+                Editable = false;
+            }
+        }
+    }
+
     actions
     {
         addafter("Select Nonstoc&k Items")
@@ -26,4 +43,14 @@ pageextension 50105 "NAVSPC_SalesOrderSubformExt" extends "Sales Order Subform"
             }
         }
     }
+    trigger OnAfterGetRecord()
+    begin
+        if ((rec.type = rec.type::Item) AND (rec."No." <> '')) then begin
+            IF NOT item.Get(rec."No.") then
+                clear(item);
+        end;
+    End;
+
+    var
+        Item: Record Item;
 }
