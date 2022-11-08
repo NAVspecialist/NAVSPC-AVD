@@ -9,7 +9,7 @@
   "EULA": "https://NAVspecialist.dk",
   "help": "https://NAVspecialist.dk",
   "url": "https://NAVspecialist.dk",
-  "logo": "ExtensionLogo.png",
+  "logo": "NAVSPC_ExtensionLogo.png",
   "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
@@ -27,6 +27,8 @@
   },
   "runtime": "9.0",
   "features": [
-    "NoImplicitWith"
+    "NoImplicitWith",
+    "TranslationFile",
+    "GenerateCaptions"
   ]
 }

@@ -2,20 +2,20 @@
 #*/.vscode/rad.json
 #*/.vscode/launch.json
 
-#*.app
+*.app
 
 # ignore auto-generated xliff
-*/Translations/*.g.xlf
+/Translations/*.g.xlf
  
 # ignore AL Object Designer cache
 
-#*/.vscode/.alcache/*
-#*/.alcache/*
-#*/.altemplates/*
-#*/.altestrunner/*
+*/.vscode/.alcache/*
+*/.alcache/*
+*/.altemplates/*
+*/.altestrunner/*
 
 # CI/CD
-#*/BuildOutput.txt
+*/BuildOutput.txt
 
 .alcache/*
 .alpackages/
@@ -25,7 +25,7 @@
 .output/
 .vscode/
 
-rad.json
+#rad.json
 
 *.flf
 TestResults.xml
