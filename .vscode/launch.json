@@ -6,7 +6,7 @@
             "request": "launch",
             "type": "al",
             "environmentType": "OnPrem",
-            "server": "http://bc365v20",
+            "server": "http://avd",
             "serverInstance": "BC",
             "authentication": "UserPassword",
             "startupObjectId": 22,
