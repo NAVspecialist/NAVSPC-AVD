@@ -1,5 +1,3 @@
-
-
 /// <summary>
 /// PageExtension NAVSPC_PurchOrderSubformExt (ID 50106) extends Record Purchase Order Subform.
 /// </summary>
@@ -42,6 +40,11 @@ pageextension 50106 "NAVSPC_PurchOrderSubformExt" extends "Purchase Order Subfor
                             Page.Run(Page::"Item Card", Item);
                 end;
             }
+        }
+
+        modify(ItemChargeAssignment)
+        {
+            ShortcutKey = 'Alt+G';
         }
     }
 

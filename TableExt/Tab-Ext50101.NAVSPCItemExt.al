@@ -51,4 +51,9 @@ tableextension 50101 "NAVSPC_ItemExt" extends Item
             caption = 'Webshopkategori4';
         }
     }
+    fieldgroups
+    {
+        addlast(DropDown; Inventory, "Qty. on Sales Order")
+        { }
+    }
 }
