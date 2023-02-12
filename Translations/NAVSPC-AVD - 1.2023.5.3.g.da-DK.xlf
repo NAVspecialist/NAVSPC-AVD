@@ -1,0 +1,657 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="da-DK" original="NAVSPC-AVD - 1.2023.5.3.g.xlf" tool-id="DTS" product-name="n/a" product-version="n/a" build-num="n/a" request-id="1989">
+    <header>
+      <tool tool-id="DTS" tool-name="DTS" tool-version="1.0.173.921" tool-company="Microsoft Corporation" />
+    </header>
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2967857891 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Sidste Varesalg</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Sidste Varesalg</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NAVSPC_Last_Item_Sales - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2967857891 - Field 486908828 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Bilagsnr.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Bilagsnr.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NAVSPC_Last_Item_Sales - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2967857891 - Field 3710982960 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Bogføringsdato</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Bogføringsdato</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NAVSPC_Last_Item_Sales - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2967857891 - Field 2704404533 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Antal</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Antal</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NAVSPC_Last_Item_Sales - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2967857891 - Field 2937233469 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Apris</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Apris</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NAVSPC_Last_Item_Sales - Field Unit Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2605918302 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Sidste 5 Varesalg</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Sidste 5 Varesalg</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Last 5 Item Sales - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1433801449 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>WEBservice - Item Inventory</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">WEBservice - Varelager</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WEBservice - Item Inventory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Sales - Invoice AVD</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Salg - Faktura AVD</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 3630968764" translate="yes" xml:space="preserve">
+          <source>The invoice has been paid.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Fakturaen er betalt.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType AlreadyPaidLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 1694087509" translate="yes" xml:space="preserve">
+          <source>Billed to</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Faktureret til</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType BilledToLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 1851005282" translate="yes" xml:space="preserve">
+          <source>Bill-to Contact E-Mail</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Faktura-til-kontakt e-mail</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType BillToContactEmailLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 2423794985" translate="yes" xml:space="preserve">
+          <source>Bill-to Contact Mobile Phone No.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Regning-For at kontakte mobiltelefonnr.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType BillToContactMobilePhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 24137681" translate="yes" xml:space="preserve">
+          <source>Bill-to Contact Phone No.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Regning-til-kontakt telefon nr.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType BillToContactPhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 1908025102" translate="yes" xml:space="preserve">
+          <source>Thank you for your business. Your invoice is attached to this message.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Tak for din virksomhed. Din faktura er vedhæftet denne meddelelse.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType BodyLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 857124111" translate="yes" xml:space="preserve">
+          <source>Please make checks payable to %1</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Foretag venligst checks, der skal betales til %1</target>
+          <note from="Developer" annotates="general" priority="2">%1 = company name</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType ChecksPayableLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 2771379227" translate="yes" xml:space="preserve">
+          <source>Sincerely</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Med venlig hilsen</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType ClosingLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 3280613231" translate="yes" xml:space="preserve">
+          <source>Account No.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Konto nr.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType CompanyInfoBankAccNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 3338143750" translate="yes" xml:space="preserve">
+          <source>Bank</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Bank</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType CompanyInfoBankNameLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 1810908995" translate="yes" xml:space="preserve">
+          <source>Giro No.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Giro nr.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType CompanyInfoGiroNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 1970452706" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Telefon nr.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType CompanyInfoPhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 3701423681" translate="yes" xml:space="preserve">
+          <source>Copy</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Eksemplar</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType CopyLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 817831222" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Beskrivelse</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType DescriptionCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 1198791402" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">E-mail</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType EMailLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 3642584667" translate="yes" xml:space="preserve">
+          <source>Exchange rate: %1/%2</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Valutakurs: %1/%2</target>
+          <note from="Developer" annotates="general" priority="2">%1 and %2 are both amounts.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType ExchangeRateTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 901740384" translate="yes" xml:space="preserve">
+          <source>From</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Fra</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType FromLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 514421613" translate="yes" xml:space="preserve">
+          <source>Hello</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Hej</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType GreetingLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 1243851074" translate="yes" xml:space="preserve">
+          <source>Home Page</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Hjemmeside</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType HomePageLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 3479778493" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Base Amount</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Basisbeløb for fakturarabat</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType InvDiscBaseAmtLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 3079811618" translate="yes" xml:space="preserve">
+          <source>Invoice Discount</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Rabat på faktura</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType InvDiscountAmtLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 259914550" translate="yes" xml:space="preserve">
+          <source>Invoice No.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Faktura nr.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType InvNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 327693762" translate="yes" xml:space="preserve">
+          <source>Job No.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Job nr.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType JobNoLbl2</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 194808771" translate="yes" xml:space="preserve">
+          <source>Job Task Description</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Beskrivelse af jobopgave</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType JobTaskDescLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 1518908157" translate="yes" xml:space="preserve">
+          <source>Job Task No.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Job opgave nr.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType JobTaskNoLbl2</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 1448166496" translate="yes" xml:space="preserve">
+          <source>Payment Discount on VAT</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Betalingsrabat på moms</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType LineAmtAfterInvDiscLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 2284888724" translate="yes" xml:space="preserve">
+          <source>Local Currency</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Lokal valuta</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType LocalCurrencyLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 3926274846" translate="yes" xml:space="preserve">
+          <source>Lot No.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Lotnr.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType LotNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 1292293871" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Nummer</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType NoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 2491107794" translate="yes" xml:space="preserve">
+          <source>You must specify one or more filters to avoid accidently printing all documents.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Du skal angive et eller flere filtre for at undgå utilsigtet udskrivning af alle dokumenter.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType NoFilterSetErr</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 1877187315" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Side</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType PageLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 3539596564" translate="yes" xml:space="preserve">
+          <source>The invoice has been partially paid. The remaining amount is %1</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Fakturaen er delvist betalt. Det resterende beløb er %1</target>
+          <note from="Developer" annotates="general" priority="2">%1=an amount</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType PartiallyPaidLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 36769898" translate="yes" xml:space="preserve">
+          <source>Payment Method</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Betalingsmetode</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType PaymentMethodDescLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 2906320672" translate="yes" xml:space="preserve">
+          <source>Payment Terms</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Betalingsbetingelser</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType PaymentTermsDescLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 3007589352" translate="yes" xml:space="preserve">
+          <source>If we receive the payment before %1, you are eligible for a %2% payment discount.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Hvis vi modtager betalingen før %1, er du berettiget til en %2% betalingsrabat.</target>
+          <note from="Developer" annotates="general" priority="2">%1 Discount Due Date %2 = value of Payment Discount % </note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType PmtDiscTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 3763377721" translate="yes" xml:space="preserve">
+          <source>Shipment Date</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Dato for afsendelse</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType PostedShipmentDateLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 3790346625" translate="yes" xml:space="preserve">
+          <source>Price</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Pris</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType PriceLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 822797676" translate="yes" xml:space="preserve">
+          <source>Price per</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Pris pr. stk.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType PricePerLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 3259830970" translate="yes" xml:space="preserve">
+          <source>Qty</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Antal</target>
+          <note from="Developer" annotates="general" priority="2">Short form of Quantity</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType QtyLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 3246368361" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Antal</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType QuantityCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 3984626017" translate="yes" xml:space="preserve">
+          <source>Questions?</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Spørgsmål?</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType QuestionsLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 2105550444" translate="yes" xml:space="preserve">
+          <source>Discount %</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Rabat %</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType SalesInvLineDiscLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 1989518965" translate="yes" xml:space="preserve">
+          <source>Invoice</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Faktura</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType SalesInvoiceLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 1075159697" translate="yes" xml:space="preserve">
+          <source>Salesperson</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Sælger</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType SalespersonLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 2518404021" translate="yes" xml:space="preserve">
+          <source>Sell-to Contact E-Mail</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Sælg til kontakt e-mail</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType SellToContactEmailLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 689955230" translate="yes" xml:space="preserve">
+          <source>Sell-to Contact Mobile Phone No.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Sell-to Kontakt mobiltelefon nr.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType SellToContactMobilePhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 1096796838" translate="yes" xml:space="preserve">
+          <source>Sell-to Contact Phone No.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Sælg til kontakt telefon nr.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType SellToContactPhoneNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 601422815" translate="yes" xml:space="preserve">
+          <source>Serial No.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Serienr.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType SerialNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 2531235046" translate="yes" xml:space="preserve">
+          <source>Shipment</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Forsendelse</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType ShipmentLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 2039684796" translate="yes" xml:space="preserve">
+          <source>Ship-to Address</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Leveringsadresse</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType ShiptoAddrLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 2175793069" translate="yes" xml:space="preserve">
+          <source>Shipment Method</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Forsendelse metode</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType ShptMethodDescLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 3014721408" translate="yes" xml:space="preserve">
+          <source>Subtotal</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Subtotal</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType SubtotalLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 1291367939" translate="yes" xml:space="preserve">
+          <source>Thank You!</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Tak!</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType ThanksLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 2410138484" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Total</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType TotalLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 984818344" translate="yes" xml:space="preserve">
+          <source>Unit</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Enhed</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType UnitLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 803899421" translate="yes" xml:space="preserve">
+          <source>VAT Amount (LCY)</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Momsbeløb (RV)</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType VATAmountLCYLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 3751533915" translate="yes" xml:space="preserve">
+          <source>VAT Amount</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Momsbeløb</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType VATAmtLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 3978645464" translate="yes" xml:space="preserve">
+          <source>VAT Amount Specification</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Specifikation af momsbeløb</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType VATAmtSpecificationLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 3259128960" translate="yes" xml:space="preserve">
+          <source>VAT Base</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Momsgrundlag</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType VATBaseLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 282000566" translate="yes" xml:space="preserve">
+          <source>VAT Base (LCY)</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Momsgrundlag (RV)</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType VATBaseLCYLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 2760006609" translate="yes" xml:space="preserve">
+          <source>VAT Clause</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Momsklausul</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType VATClausesLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 1071970054" translate="yes" xml:space="preserve">
+          <source>VAT Identifier</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Moms-id</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType VATIdentifierLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 1532992371" translate="yes" xml:space="preserve">
+          <source>VAT %</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Moms i %</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType VATPercentageLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - NamedType 1899552902" translate="yes" xml:space="preserve">
+          <source>Your Invoice</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Din faktura</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - NamedType YourSalesInvoiceLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - ReportDataItem 907109761 - Property 1806354803" translate="yes" xml:space="preserve">
+          <source>Posted Sales Invoice</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Bogført salgsfaktura</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - ReportDataItem Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - Control 2346885236 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Indstillinger</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - Control 215716959 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies if you want notes about additional fees to be shown on the document.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Angiver, om du vil have noter om ekstra gebyrer vist i dokumentet.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - Control DisplayAdditionalFeeNote - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - Control 215716959 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Show Additional Fee Note</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Vis yderligere gebyrnote</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - Control DisplayAdditionalFeeNote - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - Control 1885540899 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the report to include information about components that were used in linked assembly orders that supplied the item(s) being sold. (Only possible for RDLC report layout.)</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Angiver, om rapporten skal indeholde oplysninger om komponenter, der blev brugt i sammenkædede montageordrer, der leverede den eller de varer, der blev solgt. (Kun muligt for RDLC-rapportlayout.)</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - Control DisplayAsmInformation - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - Control 1885540899 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Show Assembly Components</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Vis monteringskomponenter</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - Control DisplayAsmInformation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - Control 4222219250 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies that shipments are shown on the document.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Angiver, at forsendelser vises i dokumentet.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - Control DisplayShipmentInformation - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - Control 4222219250 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Show Shipments</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Vis forsendelser</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - Control DisplayShipmentInformation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - Control 816368762 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies that interactions with the contact are logged.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Angiver, at interaktioner med kontakten logges.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - Control LogInteraction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - Control 816368762 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Log Interaction</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Log interaktion</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - Control LogInteraction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - Control 4192504570 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies if you want to print an appendix to the sales shipment report showing the lot and serial numbers in the shipment.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Angiver, om du vil udskrive et appendiks til salgsforsendelsesrapporten, der viser lot- og serienumrene i forsendelsen.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - Control ShowLotSNControl - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 865326467 - Control 4192504570 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Show Serial/Lot Number Appendix</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Vis appendiks for serie-/lotnummer</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Standard Sales - Invoice-AVD - Control ShowLotSNControl - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1496902179 - Change 1541011875 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Faktura e-mail</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Faktura e-mail</target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCardExt - Change E-Mail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 955823489 - Action 1302968744 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Hop til Varekort</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Hop til Varekort</target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension NAVSPC_PurchOrderSubformExt - Action Hop til Varekort - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2521381298 - Action 1302968744 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Hop til Varekort</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Hop til Varekort</target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension NAVSPC_SalesCrMemoSubformExt - Action Hop til Varekort - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 145042008 - Action 1302968744 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Hop til Varekort</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Hop til Varekort</target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension NAVSPC_SalesInvoiceSubformExt - Action Hop til Varekort - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3091375413 - Action 1302968744 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Hop til Varekort</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Hop til Varekort</target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension NAVSPC_SalesOrderSubformExt - Action Hop til Varekort - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3091375413 - Action 1549060191 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Sidste Salg</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Sidste Salg</target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension NAVSPC_SalesOrderSubformExt - Action Sidste Salg - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 230034273 - Action 1302968744 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Hop til Varekort</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Hop til Varekort</target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension NAVSPC_SalesQuoteSubformExt - Action Hop til Varekort - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1713523737 - Action 1280137342 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Run a Codeunit</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Kør en Codeunit</target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension NAVSPC_StandardTextCodesExt - Action Run Codeunit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1841316445 - Field 3512820009 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>CopyDan-Nummer</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">CopyDan-Nummer</target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension NAVSPC_CustomerExt - Field CopyDan-Nummer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1841316445 - Field 365009356 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>CopydanFritaget</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">CopydanFritaget</target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension NAVSPC_CustomerExt - Field CopydanFritaget - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1841316445 - Field 4022006937 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Email hovedkontakt</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">E-mail hovedkontakt</target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension NAVSPC_CustomerExt - Field Email Bogholderi - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1841316445 - Field 98582598 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Kreditforsikringsstatus</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Kreditforsikringsstatus</target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension NAVSPC_CustomerExt - Field Kreditforsikringsstatus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 968141214 - Field 3096988584 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Hylde</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Hylde</target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension NAVSPC_ItemExt - Field Hylde - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 968141214 - Field 3016418137 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Producentnavn</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Producentnavn</target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension NAVSPC_ItemExt - Field Producentnavn - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 968141214 - Field 402235155 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>På Webshop</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">På Webshop</target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension NAVSPC_ItemExt - Field På Webshop - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 968141214 - Field 1025919736 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Reol</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Reol</target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension NAVSPC_ItemExt - Field Reol - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 968141214 - Field 975568003 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Sektion</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Sektion</target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension NAVSPC_ItemExt - Field Sektion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 968141214 - Field 1072021719 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Webshopkategori1</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Webshopkategori1</target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension NAVSPC_ItemExt - Field Webshopkategori1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 968141214 - Field 2985111570 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Webshopkategori2</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Webshopkategori2</target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension NAVSPC_ItemExt - Field Webshopkategori2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 968141214 - Field 2347414953 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Webshopkategori3</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Webshopkategori3</target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension NAVSPC_ItemExt - Field Webshopkategori3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 968141214 - Field 4260504804 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Webshopkategori4</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Webshopkategori4</target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension NAVSPC_ItemExt - Field Webshopkategori4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 968141214 - Field 547677737 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>WEEEgruppe</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">WEEEgruppe</target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension NAVSPC_ItemExt - Field WEEEgruppe - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 968141214 - Field 2708349600 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>WEEEpligt</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">WEEEpligt</target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension NAVSPC_ItemExt - Field WEEEpligt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 795672338 - Field 1203689018 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Ordretype</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Ordretype</target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesHeaderExt - Field Ordretype - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3873240553 - Field 1203689018 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Ordretype</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Ordretype</target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesInvHeaderExt - Field Ordretype - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1019158019 - EnumValue 2520593576 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Afslået</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Afslået</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Enum Kreditforsikringsstatus - EnumValue Afslået - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1019158019 - EnumValue 647125452 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Blindcover</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Blindcover</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Enum Kreditforsikringsstatus - EnumValue Blindcover - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1019158019 - EnumValue 1438651915 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Forsikret</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Forsikret</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Enum Kreditforsikringsstatus - EnumValue Forsikret - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1019158019 - EnumValue 1446127975 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Ikke forsikret</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Ikke forsikret</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Enum Kreditforsikringsstatus - EnumValue Ikke forsikret - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 863056071 - EnumValue 1371923692 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source> </source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Enum Ordretype - EnumValue   - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 863056071 - EnumValue 2131016740 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>DukaPC</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">DukaPC</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Enum Ordretype - EnumValue DukaPC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 863056071 - EnumValue 36190024 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Export</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Eksport</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Enum Ordretype - EnumValue Export - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 863056071 - EnumValue 1959677089 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Løsdels Ordre</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Løsdels Ordre</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Enum Ordretype - EnumValue Løsdels Ordre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 863056071 - EnumValue 1819954171 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Notebook</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Notesbog</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Enum Ordretype - EnumValue Notebook - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 863056071 - EnumValue 894450543 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>PC Ordre</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">PC Ordre</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Enum Ordretype - EnumValue PC Ordre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 863056071 - EnumValue 3881195513 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Rep</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Rep</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Enum Ordretype - EnumValue Rep - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 863056071 - EnumValue 1963345634 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>RMA-sag</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">RMA-sag</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Enum Ordretype - EnumValue RMA-sag - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 863056071 - EnumValue 892320855 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Server</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Server</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Enum Ordretype - EnumValue Server - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 863056071 - EnumValue 2624780482 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Udlån</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Udlån</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Enum Ordretype - EnumValue Udlån - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2714929936 - EnumValue 1180370458 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Laptop</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Bærbar computer</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Enum WEEEgruppe - EnumValue Laptop - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2714929936 - EnumValue 1721008248 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Monitor</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Skærm</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Enum WEEEgruppe - EnumValue Monitor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2714929936 - EnumValue 3371220206 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>None</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Ingen</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Enum WEEEgruppe - EnumValue None - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2714929936 - EnumValue 4209249480 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>O50cm</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">O50cm</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Enum WEEEgruppe - EnumValue O50cm - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2714929936 - EnumValue 209819026 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>U50cm</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">U50cm</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Enum WEEEgruppe - EnumValue U50cm - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
