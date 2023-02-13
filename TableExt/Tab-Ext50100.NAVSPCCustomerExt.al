@@ -22,5 +22,9 @@ tableextension 50100 "NAVSPC_CustomerExt" extends Customer
         {
             caption = 'Kreditforsikringsstatus';
         }
+        field(50106; "Ext. Doc. No. Mandatory"; Boolean)
+        {
+            Caption = 'Eksternt bilagsnr. obl.';
+        }
     }
 }

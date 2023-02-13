@@ -1,4 +1,6 @@
-
+/// <summary>
+/// PageExtension NAVSPC_SalesCrMemoSubformExt (ID 50109) extends Record Sales Cr. Memo Subform.
+/// </summary>
 pageextension 50109 "NAVSPC_SalesCrMemoSubformExt" extends "Sales Cr. Memo Subform"
 {
     actions

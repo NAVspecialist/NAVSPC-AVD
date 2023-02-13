@@ -35,5 +35,12 @@ pageextension 50101 CustomerCardExt extends "Customer Card"
                 ApplicationArea = all;
             }
         }
+        addbefore("VAT Registration No.")
+        {
+            field("Ext. Doc. No. Mandatory"; Rec."Ext. Doc. No. Mandatory")
+            {
+                ApplicationArea = all;
+            }
+        }
     }
 }

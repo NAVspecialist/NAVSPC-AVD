@@ -18,6 +18,10 @@ enum 50101 "Enum Kreditforsikringsstatus"
     {
         Caption = 'Forsikret';
     }
+    value(4; "DRA")
+    {
+        Caption = 'DRA';
+    }
     value(3; "Afslået")
     {
         Caption = 'Afslået';
